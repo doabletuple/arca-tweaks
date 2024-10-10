@@ -1,1 +1,3 @@
-# arca-tweaks
+# ArcaTweaks
+
+A userscript to tweak arca.live
